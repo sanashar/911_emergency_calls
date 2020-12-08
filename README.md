@@ -1,5 +1,5 @@
 # 9-1-1 Emergency Call Service 
-![October]()
+![911](911_pic.jpg)
 
 # Overview 
 The crime rates have been increasing in recent times and so is the volume of 911 calls made. In such circumstance, a quick response to any 911 call is crucial. Keeping this in mind, it becomes critical to quickly and correctly process any 911 calls made and be ready for any kind of situations. This can be achieved by finding out patterns between time and day of the week and the type of calls made. The dataset I am using is about 911 calls and is available through kaggle. In this project I had the opportunity to look into 911 calls closely, which areas are affected the most and their corresponding reason. 911 is an important resource and data analytics of this would be helpful for communities and 911 operators. I used fully connected layer to check how well my model works and though experimental results the model gives 99% validation accuracy and very low validation loss.
