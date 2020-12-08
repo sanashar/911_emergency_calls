@@ -16,9 +16,9 @@ Table of Contents -
 
 Technical Notebook               : [FinalProject](https://github.com/sanashar/911_emergency_calls/blob/main/Technical%20Notebook/FinalProject.ipynb)
 
-Summary Report       : [FinalReport]()
+Summary Report       : [FinalReport](https://github.com/sanashar/911_emergency_calls/blob/main/Summary%20Report/FinalProjectReport.ipynb)
 
-Dataset          : [Data]()
+Dataset          : [Data](https://www.kaggle.com/mchirico/montcoalert)
 
 # Data Summary
 The 911 calls dataset contains calls to 911 emergency service in Montgomery County Pennsylvania and is available through [kaggle](https://www.kaggle.com/mchirico/montcoalert) that has data from 2016 to 2020. It has 50000 rows and 9 columns. Most emergency calls are for Fire, Traffic, EMS for Montgomery County, PA.
