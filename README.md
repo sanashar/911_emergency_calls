@@ -25,15 +25,15 @@ The 911 calls dataset contains calls to 911 emergency service in Montgomery Coun
 
 The data contains the following fields:
 
-lat : String variable, Latitude
-lng: String variable, Longitude
-desc: String variable, Description of the Emergency Call
-zip: String variable, Zipcode
-title: String variable, Title
-timeStamp: String variable, YYYY-MM-DD HH:MM:SS
-twp: String variable, Township
-addr: String variable, Address
-e: String variable, Dummy variable (always 1)
+1. lat : String variable, Latitude
+2. lng: String variable, Longitude
+3. desc: String variable, Description of the Emergency Call
+4. zip: String variable, Zipcode
+5. title: String variable, Title
+6. timeStamp: String variable, YYYY-MM-DD HH:MM:SS
+7. twp: String variable, Township
+8. addr: String variable, Address
+9. e: String variable, Dummy variable (always 1)
 
 # Project Info & Software Requirements
 DATA 602 Final Project - Sana Sharma
