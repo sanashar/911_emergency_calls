@@ -14,7 +14,7 @@ With the present 911 call system, citizen has to remember only one number during
 
 Table of Contents -
 
-Technical Notebook               : [FinalProject]()
+Technical Notebook               : [FinalProject](https://github.com/sanashar/911_emergency_calls/blob/main/Technical%20Notebook/FinalProject.ipynb)
 
 Summary Report       : [FinalReport]()
 
